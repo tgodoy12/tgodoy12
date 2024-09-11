@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Trilce Godoy
 
-Soy desarrolladora **Fullstack** de aplicaciones web, apasionada por crear soluciones innovadoras y eficientes. Me encanta aprender nuevas tecnologías y trabajar en equipo para desarrollar proyectos desafiantes. 💻✨
+Soy desarrolladora **Fullstack** de aplicaciones web. 
+Me encanta aprender nuevas tecnologías y trabajar en equipo para desarrollar proyectos desafiantes. 💻✨
 
 ---
 

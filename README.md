@@ -23,6 +23,8 @@ Me encanta aprender nuevas tecnologías y trabajar en equipo para desarrollar pr
 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)

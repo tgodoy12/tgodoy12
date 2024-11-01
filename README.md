@@ -52,5 +52,5 @@ Me encanta aprender nuevas tecnologías y trabajar en equipo para desarrollar pr
 ## 💼 Proyectos
 
 ### [Mascotapp](https://github.com/4GeeksAcademy/MascotAppUy-FinalProject)
-aplicación web diseñada para ayudar a publicar mascotas perdidas y encontradas, facilitando tanto la reunificación de las mascotas con sus dueños como la adopción de nuevas mascotas. 
+Aplicación web diseñada para ayudar a publicar mascotas perdidas y encontradas, facilitando tanto la reunificación de las mascotas con sus dueños como la adopción de nuevas mascotas. 
 Utiliza React, Bootstrap, Flask, y APIs externas como Google API, Leaflet, Cloudinary y más.

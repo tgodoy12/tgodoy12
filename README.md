@@ -7,6 +7,15 @@ Me encanta aprender nuevas tecnologías y trabajar en equipo para desarrollar pr
 
 ## 🚀 Habilidades
 
+### Backend
+<div class="icons" style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask Logo" width="50" style="background-color: white;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy Logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot Logo" width="50"/>
+</div> 
+
 ### Frontend
 <div class="icons" style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML Logo" width="50"/>
@@ -17,21 +26,11 @@ Me encanta aprender nuevas tecnologías y trabajar en equipo para desarrollar pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Logo" width="50"/>
 </div>
 
-
-### Backend
-<div class="icons" style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask Logo" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy Logo" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50"/>
-</div>                             
-
 ### Bases de datos
 <div class="icons" style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql Logo" width="50"/>
 </div>           
-
 
 ### Herramientas
 <div class="icons" style="display: flex; gap: 10px;">
@@ -42,15 +41,5 @@ Me encanta aprender nuevas tecnologías y trabajar en equipo para desarrollar pr
 
 ---
 
-## 📖 Actualmente aprendiendo
-<div class="icons" style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot Logo" width="50"/>
-</div>          
-
 ---
 
-## 💼 Proyectos
-
-### [Mascotapp](https://github.com/4GeeksAcademy/MascotAppUy-FinalProject)
-Aplicación web diseñada para ayudar a publicar mascotas perdidas y encontradas, facilitando tanto la reunificación de las mascotas con sus dueños como la adopción de nuevas mascotas. 
-Utiliza React, Bootstrap, Flask, y APIs externas como Google API, Leaflet, Cloudinary y más.
